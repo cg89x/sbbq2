@@ -1,0 +1,3 @@
+v 1.2
+d sbbq2: Identify turning points in time series	using the BBQ algorithm (Harding and Pagan, 2002)
+p sbbq2 Turning Point Analysis
