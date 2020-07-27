@@ -3,5 +3,5 @@ v 1.2
 d sbbq2: turning point analysis
 * d is followed by a description of the program
 f sbbq2.ado
-f sbbq2.sthlp
+f sbbq2.hlp
 * and lastly f denotes filenames that belong to your program
